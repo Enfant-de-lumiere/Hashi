@@ -1,0 +1,8 @@
+--- !ruby/object:Sauvegarde
+profil: !ruby/object:Profil
+  nom: jeu
+  idProfil: 1
+niveau: 1
+difficulte: niv1
+temps: 15
+finie: 0

@@ -1,0 +1,8 @@
+--- !ruby/object:Sauvegarde
+profil: !ruby/object:Profil
+  nom: Choisir Profil
+  idProfil: 0
+niveau: 1
+difficulte: niv1
+temps: 108
+finie: 0

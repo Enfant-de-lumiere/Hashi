@@ -1,0 +1,10 @@
+---
+- !ruby/object:Profil
+  nom: Choisir Profil
+  idProfil: 0
+- !ruby/object:Profil
+  nom: jeu
+  idProfil: 1
+- !ruby/object:Profil
+  nom: YoyoPotato
+  idProfil: 1

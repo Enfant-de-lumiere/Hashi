@@ -1,0 +1,8 @@
+--- !ruby/object:Sauvegarde
+profil: !ruby/object:Profil
+  nom: YoyoPotato
+  idProfil: 1
+niveau: 1
+difficulte: niv1
+temps: 0
+finie: 0
